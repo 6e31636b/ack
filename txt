@@ -1,0 +1,2 @@
+Reference: Microsoft's connector definition, setup step 2 "Retrieve API Token":
+https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Palo%20Alto%20Cortex%20XDR/Data%20Connectors/CortexXDR_ccp/DataConnectorDefinition.json
